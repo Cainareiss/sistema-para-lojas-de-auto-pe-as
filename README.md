@@ -1,0 +1,1 @@
+The system is already in its final phase. I didn't include a database in it since it is not necessary for its purpose. I only created a local database using notes in PDF or any other format. They will be stored on the local desktop of each PC., I provide the updated file and the executable .exe version.
